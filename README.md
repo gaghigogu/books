@@ -1,6 +1,8 @@
 # Books & Movies
 
 * [Marvel](https://github.com/gaghigogu/books/blob/master/README.md#bluray-marvel)
+* [General](https://github.com/gaghigogu/books/blob/master/README.md#bluray)
+* [Libri](https://github.com/gaghigogu/books/blob/master/README.md#libri)
 
 ##### BluRay Marvel
 - Doctor Strange
@@ -8,7 +10,7 @@
 - Thor (Thor, Thor:Dark World, Thor: Ragnarock)
 - Guardiani della galassia vol. 2
 - Capitan America (Il primo vendicatore, the winter soldier, civil war)
-- Avengers, Avengers: age of ultron
+- Avengers, Avengers: age of ultron, Avengers: Endgame
 - Spiderman: Homecoming
 
 ##### BluRay
@@ -16,6 +18,7 @@
 - Trilogia "Il signore degli anelli"
 - Star Wars: gli ultimi jedi
 - Solo: a star wars story
+- John Wick 3
 
 
 ##### Libri:
