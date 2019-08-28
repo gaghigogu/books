@@ -1,6 +1,6 @@
 # Books & Movies
 
-* [BluRay Marvel](#Bluray Marvel)
+* [Marvel](https://github.com/gaghigogu/books/blob/master/README.md#bluray-marvel)
 
 ##### BluRay Marvel
 - Doctor Strange
