@@ -1,6 +1,6 @@
 # Books & Movies
 
-* [Marvel](BluRay Marvel)
+* [BluRay Marvel]
 
 ##### BluRay Marvel
 - Doctor Strange
