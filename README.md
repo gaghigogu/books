@@ -20,6 +20,8 @@
 - Solo: a star wars story
 - John Wick 3
 
+##### Serie
+- Mindhunter 2
 
 ##### Libri:
 - A.C. Clarke - Le sabbie di Marte
