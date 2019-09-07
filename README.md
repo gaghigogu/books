@@ -10,7 +10,6 @@
 - Iron Man (1-3)
 - Thor (Thor, Thor: Dark World, Thor: Ragnarock)
 - Guardiani della galassia vol. 2
-- Capitan America (Il primo vendicatore, the winter soldier, civil war)
 - Avengers, Avengers: age of ultron, Avengers: Endgame
 - Spiderman: Homecoming
 
@@ -21,15 +20,13 @@
 - Solo: a star wars story
 - John Wick 3
 - Transformers: l'ultimo cavaliere
+- Men in Black: International
 
 ##### Serie
 - 
 
 ##### Libri:
 - A.C. Clarke - Le sabbie di Marte
-- George Orwell: 
-  * 1984
-  * La fabbrica degli animali
 - James s. A. Corey:
   * Leviathan - Il risveglio
   * Caliban - La guerra
