@@ -9,8 +9,7 @@
 - Doctor Strange
 - Iron Man (1-3)
 - Thor (Thor, Thor: Dark World, Thor: Ragnarock)
-- Guardiani della galassia vol. 2
-- Avengers, Avengers: age of ultron, Avengers: Endgame
+- Avengers, Avengers: Endgame
 - Spiderman: Homecoming
 
 ##### BluRay
@@ -27,13 +26,4 @@
 
 ##### Libri:
 - A.C. Clarke - Le sabbie di Marte
-- James s. A. Corey:
-  * Leviathan - Il risveglio
-  * Caliban - La guerra
-  * Abbadon's Gate - La fuga
-  * Cibola Burn - La cura
-  * Nemesis Games - L'esodo
-  * Babylon's ashes - Il destino
-  * Persepolis Rising - La rinascita
 - Adrian Tchaikovsky - I figli del tempo
-- Brian Greene - L'universo elegante
