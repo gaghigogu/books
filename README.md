@@ -7,7 +7,7 @@
 
 ##### BluRay Marvel
 - Doctor Strange
-- Iron Man (1-3)
+- Iron Man 3
 - Thor (Thor, Thor: Dark World, Thor: Ragnarock)
 - Avengers, Avengers: Endgame
 - Spiderman: Homecoming
